@@ -1,1 +1,2 @@
-# hello_ddpm
+# train
+python main.py
